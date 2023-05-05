@@ -12,7 +12,7 @@ public class Calculadora extends javax.swing.JFrame {
     private double primerNumero, resultado;
     private boolean activado = true;
     private boolean punto = true;
-
+    //Este es un comentario añadido para hacer un comid
     public Calculadora() {
         initComponents();
         this.setTitle("Calculadora-master");
