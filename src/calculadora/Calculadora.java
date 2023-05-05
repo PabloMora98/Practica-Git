@@ -12,6 +12,7 @@ public class Calculadora extends javax.swing.JFrame {
     private double primerNumero, resultado;
     private boolean activado = true;
     private boolean punto = true;
+    private int numero = 10;
     //Este es un comentario añadido para hacer un comid
     public Calculadora() {
         initComponents();
