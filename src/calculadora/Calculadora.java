@@ -6,7 +6,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 
 public class Calculadora extends javax.swing.JFrame {
-    //agregando un nuevo comentario
+    //agregando un nuevo comentario para git
     private String cadenaNumeros = "";
     private String operacion = "nula";
     private double primerNumero, resultado;
